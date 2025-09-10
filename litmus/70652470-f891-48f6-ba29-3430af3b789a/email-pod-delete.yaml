@@ -4,7 +4,7 @@ metadata:
   creationTimestamp: null
   labels:
     infra_id: 9f812d2c-e378-4626-8dbd-0f3bd8fb4c26
-    revision_id: 475215e3-9861-4874-97ab-2f89be562bf1
+    revision_id: 9753dbf5-982f-461c-8aa5-8fe4ca6be13c
     workflow_id: e4d788a3-765e-4166-890f-0fa790a734c1
     workflows.argoproj.io/controller-instanceid: 9f812d2c-e378-4626-8dbd-0f3bd8fb4c26
   name: email-pod-delete
